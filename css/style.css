@@ -1,6 +1,6 @@
-/* *{
+*{
    margin: 0;
-} */
+}
 
 #head-logo{
    background-image: url(/img/pattern.png);
@@ -35,11 +35,22 @@ h1{
 .article-description{
    margin-top: 20px;
 }
-#table{
-  
-   margin-right: 50px;
+
+#list{
+   margin-top: 20px;
+   margin-bottom: 25px;
 }
+
 #table-head{
+   text-align: left;
    background-color: #20A9E5;
    color: white; 
+}
+
+.blue-row{
+   background-color: #B1E5F2;
+}
+
+.white-row{
+   background-color: #FFFF;
 }
