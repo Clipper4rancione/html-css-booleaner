@@ -75,10 +75,13 @@ h1{
 
 
 #table{
+   width: 75%;
    text-align:left;
    
 }
-
+th{
+   width: 0;
+}
 #table-head{
    /* text-align: left; */
    background-color: #20A9E5;
