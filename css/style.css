@@ -12,9 +12,11 @@ h3{
    font-weight: 1000;
 }
 .container{
-   width: 200px;
-   height: 200px;
-
+   width: 250px;
+   height: 150px;
+   margin-top: 20px;
+   padding-top: 10px;
+   padding-left: 5px;
 }
 
 h1{
@@ -71,3 +73,21 @@ h1{
 
 /* Footer */
 
+.monitor{
+   background-image: url(/img/monitor.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+.graph{
+   background-image: url(/img/graph.jpg);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
+
+
+.consigliati{
+   color: #FFFF;
+}
