@@ -35,3 +35,11 @@ h1{
 .article-description{
    margin-top: 20px;
 }
+#table{
+  
+   margin-right: 50px;
+}
+#table-head{
+   background-color: #20A9E5;
+   color: white; 
+}
