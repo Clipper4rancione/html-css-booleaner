@@ -3,12 +3,16 @@
 }
 
 /*GENERICI*/
+
+body{
+   margin-left: 0;
+}
 p{
    margin-top: 5px;
    margin-bottom: 5px;
 }
 
-span{
+span.mark{
    background-color: yellow;
 }
 h3{
